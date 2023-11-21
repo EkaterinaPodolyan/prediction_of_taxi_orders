@@ -14,3 +14,6 @@
 -----
 ## Библиотеки
 *pandas, statsmodels, sklearn, matplotlib, lightgbm*
+
+## Статус
+завершен
